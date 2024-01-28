@@ -1,3 +1,3 @@
-# briOS
+# frshbbOS
 
 Welcome to my website. 
